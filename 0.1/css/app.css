@@ -1,0 +1,11 @@
+h1{
+    border: 3px solid aqua ;
+    color: red;
+}
+span{
+    border: inherit;
+}
+h1:hover{
+    background-color: greenyellow;
+    color: brown;
+}
